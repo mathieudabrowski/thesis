@@ -1,0 +1,14 @@
+# Fdb version 4
+["pdflatex"] 1754405015.34272 "Title_page.tex" "Title_page.pdf" "Title_page" 1754405015.53701 2
+  "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1710714342 41663 c82a74d8036de408d74af2c8ae75c7e5 ""
+  "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1711225004 8222923 97f749c7b9749950bc4eeba85385144c ""
+  "/usr/local/texlive/2024/texmf.cnf" 1711224910.47068 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
+  "Title_page.aux" 1754405015.34056 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "Title_page.tex" 1754405015.26856 539 44cc92c77a13d2a86592d1e7aea67b3a ""
+  (generated)
+  "Title_page.aux"
+  "Title_page.log"
+  "Title_page.pdf"
+  (rewritten before read)

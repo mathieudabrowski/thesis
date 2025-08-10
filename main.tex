@@ -1,0 +1,80 @@
+\documentclass[12pt, twoside]{report}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\graphicspath{ {Images/} }
+\usepackage[a4paper,width=150mm,top=25mm,bottom=25mm, bindingoffset=6mm]{geometry}
+
+\usepackage{fancyhdr}
+\pagestyle{plain}
+%\fancyhead{}
+%\fancyhead[RO,LE]{Algebras and orthogonal polynomials in out of equilibrium systems}
+%\fancyhead[LO,RE]{\rightmark}
+%\fancyfoot{}
+%\fancyfoot[C]{\thepage}
+%\fancyfoot[LO,CE]{Chapter \thechapter}
+%\fancyfoot[CO,RE]{Author Name}
+%\renewcommand{\headrulewidth}{0.4pt}
+%\renewcommand{\footrulewidth}{0.4pt}
+
+\usepackage[style=alphabetic,sorting=ynt]{biblatex}
+\addbibresource{References.bib}
+
+%\title{
+%{Algebras and orthogonal polynomials in out of equilibrium systems}\\
+%{\large Laboratoire d'Annecy-le-Vieux de Physique Théorique}\\
+%{\includegraphics[width=0.5\textwidth]{logo_lapth.png}}
+%}
+%\author{DABROWSKI Mathieu}
+%\date{5st of August, 2025}
+
+\begin{document}   
+
+%\maketitle
+\input{./Title_Page.tex}
+
+\chapter*{Abstract}
+Abstract goes here
+
+\chapter*{Dedication}
+To mum and dad
+
+\chapter*{Declaration}
+I declare that..
+
+\chapter*{Acknowledgements}
+I want to thank...
+
+\tableofcontents
+
+
+\chapter{Chapter One Title}
+\input{Chapters/Chapter_1}
+\section{Section 1}
+\cite{einstein}
+\newpage
+b
+\chapter{Chapter Two Title}
+\input{Chapters/Chapter_2}
+
+\chapter{Chapter Three Title}
+\input{Chapters/Chapter_3}
+
+\chapter{Chapter Four Title}
+\input{Chapters/Chapter_4}
+
+\chapter{Chapter Five Title}
+\input{Chapters/Chapter_5}
+
+
+\appendix
+\chapter{Appendix Title}
+\input{Chapters/Appendix}
+
+\printbibliography
+
+
+
+\end{document}
+
+
+
