@@ -1,8 +1,0 @@
-PWD /home/mathieu/Documents/Thèse/Latex/Manuscript
-INPUT /usr/local/texlive/2024/texmf.cnf
-INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
-INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT Title_page.tex
-OUTPUT Title_page.log
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
